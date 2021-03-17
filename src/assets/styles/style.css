@@ -916,7 +916,7 @@ Footer
 .register-aside{
   width: 320px;
   padding: 80px 40px;
-  background-color: rgba(155, 155, 155, 0.897)
+  background: rgba(232, 232, 232, 0.5);
 }
 .vertical-divider{
   height: 50px;
@@ -974,4 +974,11 @@ Footer
 }
 .lh-2{
   line-height: 2.5;
+}
+.text-start{
+  text-align: start;
+}
+.mtb-10{
+  margin-top:10px;
+  margin-bottom: 20px;
 }

@@ -83,7 +83,6 @@
               </a>
             </div>
           </div>
-
           <input type="hidden" name="pais" id="inputSelect" value="" />
         </form>
         <div class="links">
@@ -115,7 +114,7 @@ export default {
           hiddenInput.value = e.currentTarget.querySelector(
             ".titulo"
           ).innerText;
-    });
+        });
       });
     }
   }

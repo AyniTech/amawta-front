@@ -10,7 +10,7 @@ import Layout from "@/components/layout/Login.vue";
 import Form from "./Form";
 export default {
   name: "Login",
-  components:{
+  components: {
     Layout,
     Form
   }
